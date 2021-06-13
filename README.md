@@ -7,4 +7,4 @@ BEM
 
 # Description
 landing page for real estate company
-[DEMO LINK](https://Dima-Batiuk.github.io/Museum/).
+[DEMO LINK](https://Dima-Batiuk.github.io/layout_museum/).
